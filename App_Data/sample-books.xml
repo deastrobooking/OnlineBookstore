@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOKLIST>
+<BOOK>
+<TITLE>The Great Gatsby</TITLE>
+<ISBN>978-0743273565</ISBN>
+<AUTHOR>F. Scott Fitzgerald</AUTHOR>
+<CATEGORY>Classic Literature</CATEGORY>
+<JACKETURL>great-gatsby.jpg</JACKETURL>
+<DESCRIPTION>A classic American novel set in the Jazz Age, exploring themes of wealth, love, and the American Dream.</DESCRIPTION>
+</BOOK>
+<BOOK>
+<TITLE>To Kill a Mockingbird</TITLE>
+<ISBN>978-0061120084</ISBN>
+<AUTHOR>Harper Lee</AUTHOR>
+<CATEGORY>Classic Literature</CATEGORY>
+<JACKETURL>mockingbird.jpg</JACKETURL>
+<DESCRIPTION>A gripping tale of racial injustice and childhood innocence in the American South during the 1930s.</DESCRIPTION>
+</BOOK>
+<BOOK>
+<TITLE>1984</TITLE>
+<ISBN>978-0451524935</ISBN>
+<AUTHOR>George Orwell</AUTHOR>
+<CATEGORY>Science Fiction</CATEGORY>
+<JACKETURL>1984.jpg</JACKETURL>
+<DESCRIPTION>A dystopian social science fiction novel and cautionary tale about totalitarianism and surveillance.</DESCRIPTION>
+</BOOK>
+<BOOK>
+<TITLE>Pride and Prejudice</TITLE>
+<ISBN>978-0141439518</ISBN>
+<AUTHOR>Jane Austen</AUTHOR>
+<CATEGORY>Romance</CATEGORY>
+<JACKETURL>pride-prejudice.jpg</JACKETURL>
+<DESCRIPTION>A romantic novel of manners that critiques the British landed gentry at the end of the 18th century.</DESCRIPTION>
+</BOOK>
+<BOOK>
+<TITLE>The Catcher in the Rye</TITLE>
+<ISBN>978-0316769174</ISBN>
+<AUTHOR>J.D. Salinger</AUTHOR>
+<CATEGORY>Coming of Age</CATEGORY>
+<JACKETURL>catcher-rye.jpg</JACKETURL>
+<DESCRIPTION>A story about teenage rebellion and alienation, narrated by the cynical Holden Caulfield.</DESCRIPTION>
+</BOOK>
+</BOOKLIST>
